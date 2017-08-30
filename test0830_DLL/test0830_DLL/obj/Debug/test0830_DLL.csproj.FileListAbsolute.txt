@@ -1,0 +1,5 @@
+D:\LABC#\test0830_DLL\test0830_DLL\bin\Debug\test0830_DLL.dll
+D:\LABC#\test0830_DLL\test0830_DLL\bin\Debug\test0830_DLL.pdb
+D:\LABC#\test0830_DLL\test0830_DLL\obj\Debug\test0830_DLL.csprojResolveAssemblyReference.cache
+D:\LABC#\test0830_DLL\test0830_DLL\obj\Debug\test0830_DLL.dll
+D:\LABC#\test0830_DLL\test0830_DLL\obj\Debug\test0830_DLL.pdb

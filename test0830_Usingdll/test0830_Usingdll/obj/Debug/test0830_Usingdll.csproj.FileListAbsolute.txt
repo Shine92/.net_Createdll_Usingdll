@@ -1,0 +1,11 @@
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\bin\Debug\test0830_Usingdll.exe.config
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\bin\Debug\test0830_Usingdll.exe
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\bin\Debug\test0830_Usingdll.pdb
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\bin\Debug\test0830_DLL.dll
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\bin\Debug\test0830_DLL.pdb
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.csprojResolveAssemblyReference.cache
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.Form1.resources
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.Properties.Resources.resources
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.csproj.GenerateResource.Cache
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.exe
+D:\LABC#\test0830_Usingdll\test0830_Usingdll\obj\Debug\test0830_Usingdll.pdb
